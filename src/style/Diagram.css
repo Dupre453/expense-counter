@@ -1,0 +1,13 @@
+.diagram{
+  padding: 16px;
+  border-radius: 12px;
+  background-color: #e6e8ec;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  height: 160px;
+  width: 920px;
+  max-width: 95%;
+  margin: 8px auto;
+
+}

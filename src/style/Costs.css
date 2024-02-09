@@ -1,0 +1,19 @@
+.costs {
+  display: flex;
+ justify-content: center;
+  padding: 16px;
+  background-color: #e6e8ec;
+  margin: 8px auto;
+  width: 920px;
+  max-width: 95%;
+  align-items: center;
+
+}
+@media (max-width: 990px) {
+  .costs{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+}
+

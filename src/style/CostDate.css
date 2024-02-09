@@ -1,0 +1,27 @@
+.cost-date{
+    display: flex;
+    flex-direction: column;
+    width: 90px;
+    height: 90px;
+
+
+    color: black;
+
+    align-items: center;
+    float: right;
+  padding-bottom: 50%;
+}
+
+.cost-date__month{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.cost-date__year{
+    font-size: 14px;
+}
+
+.cost-date__day{
+    font-size: 18px;
+    font-weight: bold;
+}
